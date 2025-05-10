@@ -1,0 +1,57 @@
+Economics Major,,,,
+Code,Description,Prerequisites,Quality,Difficulty
+Math courses (Must take 2),,,,
+Math 1070,"Covers limits, differential and integral calculus, Taylor polynomials, and probability densities, with applications to social, economic, and information sciences.",,0.9,3.4
+Math 1080,"Focuses on multivariate calculus, optimization, and differential equations with applications to economics and social sciences.",Math 1070,2.1,2.7
+Math 1400,"Introduces integrals, transcendental functions, infinite series, and first-order differential equations with software use.",,2,3.2
+Math 1410,"Covers multivariable calculus, vectors, and vector calculus with applications to the physical sciences.",Math 1400,2,3.2
+,,,,
+introductory economics courses (Must take both),,,,
+Econ 0100,"Provides an introduction to microeconomic analysis, covering consumer choice, firm behavior, market structures, and international trade.",,2.6,2.7
+Econ 0200,"Introduces macroeconomic principles such as output, unemployment, inflation, economic growth, and fiscal and monetary policy.",Econ 0100,2.3,2.7
+,,,,
+intermediate-level courses (Must take all 4),,,,
+Econ 2100,"Intermediate microeconomic theory including consumer behavior, production, market structures, and welfare analysis using mathematical tools.","Econ 0100, Econ 0200, Math 1400/Math 1070",2.2,3.1
+Econ 2200,Analyzes income determination and growth across countries and over time using macroeconomic models.,"Econ 2100, Math 1400/Math 1070",2.3,3
+Econ 2300,"Introduces statistical methods relevant to economic analysis including probability, sampling, estimation, and regression.","Econ 0100, Econ 0200, Math 1400/Math 1070",2.3,2.9
+Econ 2310,"Covers econometric techniques including regression analysis, hypothesis testing, and model specification applied to economic data.","Econ 2100, Econ 2300, Math 1400/Math 1070",2.2,3.2
+,,,,
+Advanced Courses (Choose any 4 from the list),,,,
+Econ 4310,"Teaches modern macroeconometric methods including DSGE models, nowcasting, and the impact of macroeconomic shocks.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4320,"Covers advanced econometric topics used in microeconomic applications, starting from matrix-based review through modern techniques.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",3,3.2
+Econ 4330,Advanced seminar course (specific topic varies by semester).,"Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",2.9,3.1
+Econ 4410,"Examines government intervention, taxation, and expenditure with a focus on efficiency, equity, and policy design.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",2.7,2.5
+Econ 4420,"Applies economic analysis to political institutions and behavior, exploring voting, rent-seeking, and policy outcomes.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4430,"Analyzes labor markets, wage setting, human capital investment, unemployment, and effects of public policy.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4440,"Studies economic aspects of legal systems, incentives in litigation, and regulation.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4450,"Focuses on firm behavior in imperfect competition including pricing, product decisions, mergers, and antitrust issues.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4460,"Applies microeconomics to healthcare markets, studying demand, insurance, provider behavior, and health policy.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",2.7,2.6
+Econ 4470,"Studies urban finance including taxation, public infrastructure, municipal debt, and local government budgeting.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",2.8,2.5
+Econ 4480,"Explores the economics of education systems, educational investment, returns to schooling, and policy implications.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4490,"Investigates economic interactions in digital markets, network effects, market power, and regulation.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4110,"Economic models of family and household behavior including labor supply, fertility, and intergenerational decisions.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4200,"Investigates economic growth processes and differences in performance across nations, focusing on models and policy implications.","Econ 2100, Econ 2200, Econ 2300, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4210,Covers numerical methods for solving macroeconomic models including dynamic programming and simulations.,"Econ 2100, Econ 2200, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4210,Covers numerical methods for solving macroeconomic models including dynamic programming and simulations.,"Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4220,"Focuses on the analysis of business cycles using dynamic models, exploring real and nominal rigidities.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4225,"Examines asset pricing and macro-finance, using general equilibrium and stochastic modeling frameworks.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4230,"Studies money, banking, and financial markets, emphasizing central banking and monetary policy design.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4240,"Explores international macroeconomics, exchange rates, and open economy macro policy.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4205,"Advanced topics in macroeconomics, typically focused on contemporary research areas.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4101,"Advanced topics in financial economics including corporate finance, asset pricing, and financial intermediation.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4110,"Economic models of family and household behavior including labor supply, fertility, and intergenerational decisions.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4120,"Studies the economics of aging and retirement, including Social Security and private pension systems.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4130,"Analyzes housing markets and policy with an emphasis on affordability, finance, and urban structure.","Econ 2100, Econ 2300, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4140,Examines real estate markets from an investment and policy standpoint.,"Econ 2100, Econ 2300, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4170,Topics in behavioral economics and how psychological insights modify standard economic models.,"Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 6100,"Graduate-level microeconomic theory covering consumer theory, producer theory, and general equilibrium.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 6110,Graduate-level macroeconomic theory including dynamic stochastic models and policy analysis.,"Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4510,"Studies international trade theory, trade policy, and globalization.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",2.5,2.7
+Econ 4520,"Analyzes international finance topics such as exchange rates, capital flows, and currency crises.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",2.3,2.9
+Econ 4530,"Covers development economics topics including poverty, inequality, and growth policies.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4540,Examines the role of institutions and governance in economic development.,"Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4610,Covers behavioral finance and decision-making under uncertainty.,"Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",3,2.3
+Econ 4545,Focuses on empirical strategies and policy analysis in development economics.,"Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",2.5,2
+Econ 4550,"Studies environmental economics including pollution control, climate change, and resource management.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4560,"Explores energy economics, energy policy, and sustainability.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",N/A,N/A
+Econ 4900,"Independent research course under faculty supervision, typically culminating in a thesis or major paper.","Econ 2100, Math 1400/Math 1070, Math 1410/Math 1080, ",3.2,2.9
