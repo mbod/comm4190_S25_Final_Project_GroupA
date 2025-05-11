@@ -20,3 +20,12 @@ Documents needed:
 * Sample schedules
 * Course descriptions and schedules (from Path@Penn or department PDFs)
 * FAQs and advising documents
+
+How to navigate this notebook:
+1. Proposal and Use Cases 
+2. Prompt
+3. User Pathways
+4. Gradio Interface and Model
+5. Trying Different LLMs
+6. Evaluation and Conclusion
+7. Logo and Name
