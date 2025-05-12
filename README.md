@@ -46,20 +46,3 @@ In our project, we will attempt to train LLM by both using prompting and uploadi
 
 
 
-
-
-
-User scenarios:
-1. CAS Junior doing a CIMS Major is selecting classes for Fall 2025 and Spring 2026 and wants to make sure they complete all requirements of major to graduate
-2. Wharton Sophomore doing a Data Science and Analytics minor and wants to plan out the 6 courses they will take to fulfill this minor
-3. CAS Freshman weighs 2 different majors and wants the LLM to compare the two to help decide what courses they would be more interested in taking 
-4. CAS Sophomore doing an Economics major wondering if they can study abroad junior year and still complete their concentration
-5. CAS Freshman asking if taking PHIL 008 fulfills both the Sector 2 and Ethics requirement
-
-Documents needed:
-* Major/minor requirements from the department websites
-* College sector requirements
-* Sample schedules
-* Course descriptions and schedules (from Path@Penn or department PDFs)
-* FAQs and advising documents
->>>>>>> 9d81775 (x)
