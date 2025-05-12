@@ -22,10 +22,10 @@ Documents needed:
 * FAQs and advising documents
 
 How to navigate this notebook:
-1. Proposal and Use Cases 
-2. Prompt
-3. User Pathways
-4. Gradio Interface and Model
-5. Trying Different LLMs
-6. Evaluation and Conclusion
-7. Logo and Name
+1. [Proposal and Use Cases](1.ipynb)
+2. [Prompt](2.ipynb)
+3. [User Pathways](3.ipynb)
+4. [Gradio Interface and Model](4.ipynb)
+5. [Trying Different LLMs](5.ipynb)
+6. [Evaluation and Conclusion](6.ipynb)
+7. [Logo and Name](7.ipynb)
