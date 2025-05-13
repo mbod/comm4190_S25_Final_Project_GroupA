@@ -5,7 +5,7 @@
 
 ![](img/logo.jpeg)
 
-### PROJECT TEAM MEMBERS!
+### Amelie Zhang, Carlos Lama, Sose Hovannisian
 
 
 ----
